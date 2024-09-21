@@ -7,7 +7,7 @@ This repository contains all the materials and assignments from my data science 
 - [Data Science Training Repository](#data-science-training-repository)
   - [Introduction](#introduction)
   - [Table of Contents](#table-of-contents)
-  - [Data Science Assignments](#Data Science Assignments)
+  - [Data Science Assignments]_(#Data Science Assignments)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Features](#features)
@@ -43,7 +43,7 @@ To use the files and notebooks in this repository, follow these steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   (https://github.com/HarishAbhishek006/Data-science-assignment-excelr.git)
+   ((https://github.com/DelvinJames2000/Data_Science_Assignment-ExcelR.git))
    ```
 2. Ensure you have Python installed on your machine (preferably version 3.6 or above).
 
@@ -68,7 +68,7 @@ To use the files and notebooks in this repository, follow these steps:
 - (Include any specific libraries used, e.g., NumPy, Pandas, Scikit-learn, etc.)
 
 ## Contributors
-- **Harish Abhishek Y** - Completed the training and compiled this repository.
+- **Delvin James** - Completed the training and compiled this repository.
 
 
 ### Notes:
